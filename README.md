@@ -85,10 +85,10 @@ This project follows GitFlow strategy:
 
 ## 👨‍💻 Author
 
-**Sanyam Raj Singh Dodiya**
+**Isha Chakravorty**
 
 GitHub:
-https://github.com/SanyamRajSingh
+https://github.com/Isha-Chakravorty
 
 ---
 
